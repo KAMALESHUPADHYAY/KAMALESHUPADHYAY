@@ -55,7 +55,8 @@
 </td>
 
 <td width="40%">
-<img src="https://ibb.co/6J7rWmVs" width="250px" style="border-radius:50%">
+<img src="![WhatsApp Image 2026-03-17 at 12 26 10](https://github.com/user-attachments/assets/cbd817ce-cf16-4a41-88aa-1c02a38463e1)
+" width="250px" style="border-radius:50%">
 </td>
 
 </tr>
