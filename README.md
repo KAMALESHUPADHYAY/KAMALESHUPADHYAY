@@ -1,6 +1,6 @@
 <!-- Animated Hero Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Kamalesh+Upadhyay;Software+Developer+%7C+AI%2FML+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG">
+  <img src="https://cdn.pixabay.com/photo/2023/02/10/19/01/ai-generated-7780325_1280.png?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Kamalesh+Upadhyay;Software+Developer+%7C+AI%2FML+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,python,flask,git,github,mongodb,figma,vercel,java,cpp&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,git,github,figma,vercel,java,cpp&perline=8" alt="Tech Stack" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/kamalesh-upadhyay-050b3a2a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/KAMALESHUPADHYAY" target="_blank">
