@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Kamalesh+Upadhyay;Software+Developer+|+AI/ML+Enthusiast;Problem+Solver+|+Tech+Explorer">
 </h1>
 
-https://github.com/KAMALESHUPADHYAY/KAMALESHUPADHYAY/blob/main/Screenshot%202026-03-26%20222721.png
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Kamalesh+Upadhyay;Software+Developer+%7C+AI%2FML+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG">
-</h1>
-
 <!-- ✅ Replaced with coder boy image -->
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2023/06/14/17/43/ai-generated-8063129_1280.png" width="420"/>
