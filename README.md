@@ -1,10 +1,11 @@
 <!-- Animated Hero Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com"?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Kamalesh+Upadhyay;Software+Developer+%7C+AI%2FML+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Kamalesh+Upadhyay;Software+Developer+%7C+AI%2FML+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG">
 </h1>
 
+<!-- ✅ Replaced with coder boy image -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_640.png" width="420" style="border-radius: 50%; box-shadow: 0px 0px 10px #00ffff;" />
+  <img src="https://cdn.pixabay.com/photo/2023/06/14/17/43/ai-generated-8063129_1280.png" width="420"/>
 </p>
 
 ---
@@ -19,7 +20,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,git,github,figma,vercel,java,cpp&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,python,flask,git,github,mongodb,figma,vercel,java,cpp&perline=8" alt="Tech Stack" />
 </p>
 
 ---
@@ -56,10 +57,10 @@
   <a href="https://github.com/KAMALESHUPADHYAY" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23171515?style=for-the-badge&logo=github" />
   </a>
-  <a href="#" target="_blank">
+  <a href="my-portfolio-zeta-woad-96.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://leetcode.com/u/kamaleshupadhyay/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
