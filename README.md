@@ -60,7 +60,7 @@
   <a href="https://github.com/KAMALESHUPADHYAY" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23171515?style=for-the-badge&logo=github" />
   </a>
-  <a href="my-portfolio-zeta-woad-96.vercel.app" target="_blank">
+  <a href="https://my-portfolio-zeta-woad-96.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/kamaleshupadhyay/" target="_blank">
